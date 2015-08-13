@@ -1,4 +1,4 @@
-source 'https://rubygems.org'
+source 'http://ruby.taobao.org'
 
 # Middleman
 gem 'middleman', '~>3.3.10'
@@ -10,3 +10,5 @@ gem 'redcarpet', '~> 3.3.2'
 
 gem 'rake', '~> 10.4.2'
 gem 'therubyracer', '~> 0.12.1', platforms: :ruby
+
+gem 'middleman-deploy'
