@@ -48,6 +48,7 @@ You're going to need:
  3. `cd slate`
  4. Install all dependencies: `bundle install`
  5. Start the test server: `bundle exec middleman server`
+ 6. Deploy: `bundle exec middleman deploy`
 
 Or use the included Dockerfile! (must install Docker first)
 
